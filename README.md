@@ -11,6 +11,8 @@ This is a **measurement** release: it lets you recompute the reported
 quantities from gate outputs and verify every table number directly. It is
 **not** a detector or a training framework.
 
+> **Status.** This repository accompanies a paper under submission. It is kept private during review and will be **made public upon submission**.
+
 ## Layout
 - `src/gate/analysis/` — condition-signal extraction (`physics_priors.py`:
   dark channel, transmission, TSP, rank, RGB-derived controls), the
