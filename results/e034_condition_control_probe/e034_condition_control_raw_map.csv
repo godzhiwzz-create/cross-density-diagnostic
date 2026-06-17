@@ -1,0 +1,201 @@
+variant,signal,dataset,seed,map50
+rgb,RGB condition,beta_0.005,42,0.45379429712886593
+rgb,RGB condition,beta_0.005,123,0.4590375485746869
+rgb,RGB condition,beta_0.005,456,0.45728655135009266
+rgb,RGB condition,beta_0.005,789,0.45220802528945014
+rgb,RGB condition,beta_0.005,2024,0.4481205872138111
+rgb,RGB condition,beta_0.01,42,0.4525001853020453
+rgb,RGB condition,beta_0.01,123,0.45695989852255386
+rgb,RGB condition,beta_0.01,456,0.44821208136699797
+rgb,RGB condition,beta_0.01,789,0.4461411673009415
+rgb,RGB condition,beta_0.01,2024,0.4470900472633818
+rgb,RGB condition,beta_0.02,42,0.43983671155260123
+rgb,RGB condition,beta_0.02,123,0.4476996153405334
+rgb,RGB condition,beta_0.02,456,0.43381631486382083
+rgb,RGB condition,beta_0.02,789,0.4384940517198355
+rgb,RGB condition,beta_0.02,2024,0.42274195005348203
+rgb,RGB condition,rtts,42,0.33447196614227787
+rgb,RGB condition,rtts,123,0.33360481561136296
+rgb,RGB condition,rtts,456,0.35722726871578975
+rgb,RGB condition,rtts,789,0.33387684623163727
+rgb,RGB condition,rtts,2024,0.3225088159474621
+rgb,RGB condition,foggy_driving,42,0.192520904424343
+rgb,RGB condition,foggy_driving,123,0.1838206855277391
+rgb,RGB condition,foggy_driving,456,0.19124645430696655
+rgb,RGB condition,foggy_driving,789,0.18860285769725377
+rgb,RGB condition,foggy_driving,2024,0.17395421212960407
+rgb_gray,RGB grayscale control,beta_0.005,42,0.4590822507465778
+rgb_gray,RGB grayscale control,beta_0.005,123,0.45752222770717527
+rgb_gray,RGB grayscale control,beta_0.005,456,0.4322545150210012
+rgb_gray,RGB grayscale control,beta_0.005,789,0.4558975826232835
+rgb_gray,RGB grayscale control,beta_0.005,2024,0.4681356733434918
+rgb_gray,RGB grayscale control,beta_0.01,42,0.4521626088820989
+rgb_gray,RGB grayscale control,beta_0.01,123,0.4586238276335881
+rgb_gray,RGB grayscale control,beta_0.01,456,0.42555509507453426
+rgb_gray,RGB grayscale control,beta_0.01,789,0.4489198531770634
+rgb_gray,RGB grayscale control,beta_0.01,2024,0.45663934917971394
+rgb_gray,RGB grayscale control,beta_0.02,42,0.4410586289851136
+rgb_gray,RGB grayscale control,beta_0.02,123,0.4451353168484912
+rgb_gray,RGB grayscale control,beta_0.02,456,0.4096955569031567
+rgb_gray,RGB grayscale control,beta_0.02,789,0.43688073105379494
+rgb_gray,RGB grayscale control,beta_0.02,2024,0.43977717578959985
+rgb_gray,RGB grayscale control,rtts,42,0.32413546391905995
+rgb_gray,RGB grayscale control,rtts,123,0.3261978744042451
+rgb_gray,RGB grayscale control,rtts,456,0.3536548643430765
+rgb_gray,RGB grayscale control,rtts,789,0.3277942507774647
+rgb_gray,RGB grayscale control,rtts,2024,0.32536039176160386
+rgb_gray,RGB grayscale control,foggy_driving,42,0.1724492277687477
+rgb_gray,RGB grayscale control,foggy_driving,123,0.20750943804282088
+rgb_gray,RGB grayscale control,foggy_driving,456,0.17444354893399205
+rgb_gray,RGB grayscale control,foggy_driving,789,0.22678771798576372
+rgb_gray,RGB grayscale control,foggy_driving,2024,0.1916503383823917
+rgb_sobel_mag,RGB Sobel edge control,beta_0.005,42,0.4550085163566657
+rgb_sobel_mag,RGB Sobel edge control,beta_0.005,123,0.45774980059119785
+rgb_sobel_mag,RGB Sobel edge control,beta_0.005,456,0.4530625013883167
+rgb_sobel_mag,RGB Sobel edge control,beta_0.005,789,0.4526855772049693
+rgb_sobel_mag,RGB Sobel edge control,beta_0.005,2024,0.46038365731034275
+rgb_sobel_mag,RGB Sobel edge control,beta_0.01,42,0.45239859203477817
+rgb_sobel_mag,RGB Sobel edge control,beta_0.01,123,0.45042524034224535
+rgb_sobel_mag,RGB Sobel edge control,beta_0.01,456,0.44805217191232727
+rgb_sobel_mag,RGB Sobel edge control,beta_0.01,789,0.4502527157155169
+rgb_sobel_mag,RGB Sobel edge control,beta_0.01,2024,0.45509852475873835
+rgb_sobel_mag,RGB Sobel edge control,beta_0.02,42,0.4395685013269267
+rgb_sobel_mag,RGB Sobel edge control,beta_0.02,123,0.4295485030404087
+rgb_sobel_mag,RGB Sobel edge control,beta_0.02,456,0.440390756482221
+rgb_sobel_mag,RGB Sobel edge control,beta_0.02,789,0.43755404415619126
+rgb_sobel_mag,RGB Sobel edge control,beta_0.02,2024,0.44276636743287484
+rgb_sobel_mag,RGB Sobel edge control,rtts,42,0.3230531966943327
+rgb_sobel_mag,RGB Sobel edge control,rtts,123,0.31874031517316403
+rgb_sobel_mag,RGB Sobel edge control,rtts,456,0.34934493022711544
+rgb_sobel_mag,RGB Sobel edge control,rtts,789,0.3342033229816679
+rgb_sobel_mag,RGB Sobel edge control,rtts,2024,0.31239364015805815
+rgb_sobel_mag,RGB Sobel edge control,foggy_driving,42,0.19936658220087822
+rgb_sobel_mag,RGB Sobel edge control,foggy_driving,123,0.1867535562173031
+rgb_sobel_mag,RGB Sobel edge control,foggy_driving,456,0.18033604849994603
+rgb_sobel_mag,RGB Sobel edge control,foggy_driving,789,0.22200920781750313
+rgb_sobel_mag,RGB Sobel edge control,foggy_driving,2024,0.19335860757266096
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.005,42,0.45523350146525626
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.005,123,0.45668877684310627
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.005,456,0.4541343822840215
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.005,789,0.4593536070773032
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.005,2024,0.4443755873130757
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.01,42,0.45070146805105893
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.01,123,0.4558910930626157
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.01,456,0.44783426018548544
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.01,789,0.45943570557775615
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.01,2024,0.45012831682098625
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.02,42,0.43638254875516685
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.02,123,0.44346202187134487
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.02,456,0.43644263928228433
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.02,789,0.44773080540282517
+rgb_equalized_gray,equalized RGB grayscale control,beta_0.02,2024,0.43706622395934536
+rgb_equalized_gray,equalized RGB grayscale control,rtts,42,0.31506366405962355
+rgb_equalized_gray,equalized RGB grayscale control,rtts,123,0.32688065154597956
+rgb_equalized_gray,equalized RGB grayscale control,rtts,456,0.32937169876097294
+rgb_equalized_gray,equalized RGB grayscale control,rtts,789,0.3394520860860808
+rgb_equalized_gray,equalized RGB grayscale control,rtts,2024,0.3231613692997523
+rgb_equalized_gray,equalized RGB grayscale control,foggy_driving,42,0.21027083875684655
+rgb_equalized_gray,equalized RGB grayscale control,foggy_driving,123,0.17985793451197424
+rgb_equalized_gray,equalized RGB grayscale control,foggy_driving,456,0.2117380939570739
+rgb_equalized_gray,equalized RGB grayscale control,foggy_driving,789,0.19025583514395417
+rgb_equalized_gray,equalized RGB grayscale control,foggy_driving,2024,0.2216293625012334
+raw_dark_channel,raw dark channel,beta_0.005,42,0.4549955480591138
+raw_dark_channel,raw dark channel,beta_0.005,123,0.42607074129084843
+raw_dark_channel,raw dark channel,beta_0.005,456,0.457124149333789
+raw_dark_channel,raw dark channel,beta_0.005,789,0.45462646171675214
+raw_dark_channel,raw dark channel,beta_0.005,2024,0.45536099494532867
+raw_dark_channel,raw dark channel,beta_0.01,42,0.452644167590037
+raw_dark_channel,raw dark channel,beta_0.01,123,0.42630542329735255
+raw_dark_channel,raw dark channel,beta_0.01,456,0.45000350801379035
+raw_dark_channel,raw dark channel,beta_0.01,789,0.4530213952079265
+raw_dark_channel,raw dark channel,beta_0.01,2024,0.4454628593294857
+raw_dark_channel,raw dark channel,beta_0.02,42,0.4392864301188074
+raw_dark_channel,raw dark channel,beta_0.02,123,0.41076612083916186
+raw_dark_channel,raw dark channel,beta_0.02,456,0.4364449335760894
+raw_dark_channel,raw dark channel,beta_0.02,789,0.4415680193986977
+raw_dark_channel,raw dark channel,beta_0.02,2024,0.4254226229039837
+raw_dark_channel,raw dark channel,rtts,42,0.34293680037859803
+raw_dark_channel,raw dark channel,rtts,123,0.33888897384752487
+raw_dark_channel,raw dark channel,rtts,456,0.339650714796063
+raw_dark_channel,raw dark channel,rtts,789,0.3130326245896119
+raw_dark_channel,raw dark channel,rtts,2024,0.33716615689242296
+raw_dark_channel,raw dark channel,foggy_driving,42,0.19404419695788738
+raw_dark_channel,raw dark channel,foggy_driving,123,0.22494710646918373
+raw_dark_channel,raw dark channel,foggy_driving,456,0.19219157387492347
+raw_dark_channel,raw dark channel,foggy_driving,789,0.2014989497583887
+raw_dark_channel,raw dark channel,foggy_driving,2024,0.22073428524984823
+raw_transmission,raw transmission,beta_0.005,42,0.44920023377640755
+raw_transmission,raw transmission,beta_0.005,123,0.4678123661369185
+raw_transmission,raw transmission,beta_0.005,456,0.43491956111023244
+raw_transmission,raw transmission,beta_0.005,789,0.45707436998719514
+raw_transmission,raw transmission,beta_0.005,2024,0.4329372369612216
+raw_transmission,raw transmission,beta_0.01,42,0.4473020248227282
+raw_transmission,raw transmission,beta_0.01,123,0.4630734893918731
+raw_transmission,raw transmission,beta_0.01,456,0.42979384132893383
+raw_transmission,raw transmission,beta_0.01,789,0.4522635102640671
+raw_transmission,raw transmission,beta_0.01,2024,0.42858607422457573
+raw_transmission,raw transmission,beta_0.02,42,0.43403831037908946
+raw_transmission,raw transmission,beta_0.02,123,0.45421985549167554
+raw_transmission,raw transmission,beta_0.02,456,0.41544713852187953
+raw_transmission,raw transmission,beta_0.02,789,0.4389915139439559
+raw_transmission,raw transmission,beta_0.02,2024,0.4156543958984779
+raw_transmission,raw transmission,rtts,42,0.33476394943392523
+raw_transmission,raw transmission,rtts,123,0.3276145296440754
+raw_transmission,raw transmission,rtts,456,0.34471880519752346
+raw_transmission,raw transmission,rtts,789,0.34364243088947327
+raw_transmission,raw transmission,rtts,2024,0.31242592638296884
+raw_transmission,raw transmission,foggy_driving,42,0.21009157286737218
+raw_transmission,raw transmission,foggy_driving,123,0.1849620005734598
+raw_transmission,raw transmission,foggy_driving,456,0.20377433028600095
+raw_transmission,raw transmission,foggy_driving,789,0.19986119430135527
+raw_transmission,raw transmission,foggy_driving,2024,0.1907879233631945
+tsp_grad_mag,TSP transmission gradient,beta_0.005,42,0.4613357542147158
+tsp_grad_mag,TSP transmission gradient,beta_0.005,123,0.46415961713398146
+tsp_grad_mag,TSP transmission gradient,beta_0.005,456,0.4512443442340796
+tsp_grad_mag,TSP transmission gradient,beta_0.005,789,0.456190815838547
+tsp_grad_mag,TSP transmission gradient,beta_0.005,2024,0.4644247920815553
+tsp_grad_mag,TSP transmission gradient,beta_0.01,42,0.4537732978857437
+tsp_grad_mag,TSP transmission gradient,beta_0.01,123,0.4597374005742677
+tsp_grad_mag,TSP transmission gradient,beta_0.01,456,0.44587656240854145
+tsp_grad_mag,TSP transmission gradient,beta_0.01,789,0.4460027862239998
+tsp_grad_mag,TSP transmission gradient,beta_0.01,2024,0.4575344095405368
+tsp_grad_mag,TSP transmission gradient,beta_0.02,42,0.42887552849027777
+tsp_grad_mag,TSP transmission gradient,beta_0.02,123,0.4487544388163912
+tsp_grad_mag,TSP transmission gradient,beta_0.02,456,0.431171836982281
+tsp_grad_mag,TSP transmission gradient,beta_0.02,789,0.43817686669780737
+tsp_grad_mag,TSP transmission gradient,beta_0.02,2024,0.44505680019405947
+tsp_grad_mag,TSP transmission gradient,rtts,42,0.33834503399525145
+tsp_grad_mag,TSP transmission gradient,rtts,123,0.353465386206621
+tsp_grad_mag,TSP transmission gradient,rtts,456,0.34937454561612896
+tsp_grad_mag,TSP transmission gradient,rtts,789,0.33017696124783497
+tsp_grad_mag,TSP transmission gradient,rtts,2024,0.3239793446635388
+tsp_grad_mag,TSP transmission gradient,foggy_driving,42,0.21297355307748486
+tsp_grad_mag,TSP transmission gradient,foggy_driving,123,0.19421892322518827
+tsp_grad_mag,TSP transmission gradient,foggy_driving,456,0.1897482371754078
+tsp_grad_mag,TSP transmission gradient,foggy_driving,789,0.1857513199749132
+tsp_grad_mag,TSP transmission gradient,foggy_driving,2024,0.1843391338347672
+tsp_rank,TSP rank boundary,beta_0.005,42,0.46730553447337264
+tsp_rank,TSP rank boundary,beta_0.005,123,0.4630737757550744
+tsp_rank,TSP rank boundary,beta_0.005,456,0.4344289224952841
+tsp_rank,TSP rank boundary,beta_0.005,789,0.43649924511354565
+tsp_rank,TSP rank boundary,beta_0.005,2024,0.4575616242077382
+tsp_rank,TSP rank boundary,beta_0.01,42,0.4641363340496129
+tsp_rank,TSP rank boundary,beta_0.01,123,0.4567626250984059
+tsp_rank,TSP rank boundary,beta_0.01,456,0.4259216031406877
+tsp_rank,TSP rank boundary,beta_0.01,789,0.4313024803453114
+tsp_rank,TSP rank boundary,beta_0.01,2024,0.44730993839873634
+tsp_rank,TSP rank boundary,beta_0.02,42,0.4523077815920553
+tsp_rank,TSP rank boundary,beta_0.02,123,0.43859640895040924
+tsp_rank,TSP rank boundary,beta_0.02,456,0.40378311695832925
+tsp_rank,TSP rank boundary,beta_0.02,789,0.4150656043610766
+tsp_rank,TSP rank boundary,beta_0.02,2024,0.431477513288712
+tsp_rank,TSP rank boundary,rtts,42,0.3290785778918098
+tsp_rank,TSP rank boundary,rtts,123,0.33701489095500053
+tsp_rank,TSP rank boundary,rtts,456,0.34628634013217874
+tsp_rank,TSP rank boundary,rtts,789,0.32787880486138943
+tsp_rank,TSP rank boundary,rtts,2024,0.33375783682105703
+tsp_rank,TSP rank boundary,foggy_driving,42,0.18121461459467075
+tsp_rank,TSP rank boundary,foggy_driving,123,0.21613651809619114
+tsp_rank,TSP rank boundary,foggy_driving,456,0.19627378525347017
+tsp_rank,TSP rank boundary,foggy_driving,789,0.2138566593140555
+tsp_rank,TSP rank boundary,foggy_driving,2024,0.19203722452339206
